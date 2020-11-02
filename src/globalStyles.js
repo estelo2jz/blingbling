@@ -10,6 +10,13 @@ const GlobalStyle = createGlobalStyle`
   }
 `;
 
+export const ProductContainer = styled.div`
+  padding: 30px 30px;
+  width: 100%;
+  height: 100%;
+  background: red;
+`;
+
 export const Container = styled.div`
   z-index: 1;
   width: 100%;

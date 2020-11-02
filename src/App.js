@@ -8,6 +8,7 @@ import Chain from './components/Files/Chain/Chain';
 import Pendant from './components/Files/Pendant/Pendant';
 import Navbar from "./components/Navbar/Navbar";
 import ScrollToTop from './components/ScrollToTop';
+import './styles/main.scss';
 
 function App() {
   return (
