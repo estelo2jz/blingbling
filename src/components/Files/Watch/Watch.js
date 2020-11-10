@@ -11,7 +11,7 @@ export default class Watch extends Component {
               <div key={index} className="bling__img-container">
                 {/* <Link to={item.path}> */}
                   <img src={item.imageOne} />
-                  <img src={item.imageTwo} />
+                  {/* <img src={item.imageTwo} /> */}
               </div>
               <li>
                   {item.title}
