@@ -60,6 +60,11 @@ function Footer() {
           </li>
         </ul>
       </div>
+      <div>
+        <p>
+          Disclaimer: Our products are for cosmetic and entertainment purposes only and should not be used for the replacement of natural teeth or broken fillings. Custom Gold Grillz does not perform dental procedures, and we are not able to take impressions of your teeth in person. You must purchase a do-it-yourself mold kit or have your impression created by a licensed dentist. We will not be held liable for any direct, indirect, incidental, special, or consequential losses or damages arising from the use of our products.
+        </p>
+      </div>
     </div>
   )
 }
