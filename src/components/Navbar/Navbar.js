@@ -53,6 +53,11 @@ function Navbar() {
                   Home
                 </NavLinks>
               </NavItem>
+              {/* <NavItem>
+                <NavLinks to="/All">
+                  All
+                </NavLinks>
+              </NavItem> */}
               <NavItem>
                 <NavLinks to="/Watch">
                   Watchz
@@ -68,11 +73,11 @@ function Navbar() {
                   Chainz
                 </NavLinks>
               </NavItem>
-              <NavItem>
+              {/* <NavItem>
                 <NavLinks to="/Pendant">
                   Pendantz
                 </NavLinks>
-              </NavItem>
+              </NavItem> */}
               <NavItemBtn>
                 {button ? (
                   <NavBtnLink to="/sign-up">

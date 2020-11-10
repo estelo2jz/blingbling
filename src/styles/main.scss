@@ -1,6 +1,10 @@
 @import './watch.scss';
 @import './home.scss';
-
+@import './featured.scss';
+@import './footer.scss';
 body {
   background: #101522;;
+}
+html {
+  height: 100%;
 }

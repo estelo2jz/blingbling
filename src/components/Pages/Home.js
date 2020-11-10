@@ -38,6 +38,9 @@ export default class Home extends Component {
             </div>
           </div>
         </section>
+        <div>
+          hello
+        </div>
         {/* <div className="home__container-featured">
           <ul>
             <li>

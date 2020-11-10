@@ -1,0 +1,32 @@
+.footer__container {
+  background: #353943;
+  min-height: 50vh;
+  // position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 5em;
+  color: white;
+  line-height: 2em;
+  padding: 40px 60px;
+  
+  
+
+  li {
+    list-style: none;
+
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  .footer__box {
+    text-align: left;
+    width: 300px;
+  }
+  
+  .fab {
+    color: white;
+    font-size: 3em;
+  }
+}
